@@ -13,11 +13,11 @@ html, body {
     margin-left: auto;
     margin-right: auto;
 }
-.yape .yape-logo {
+.yape .logo {
     width: 10rem;
     padding: 1.5rem
 }
-.yape .yape-qr {
+.yape .qr {
     width: 20rem;
     border-radius: 2rem;
 }
